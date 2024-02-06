@@ -1,0 +1,10 @@
+D:\progromirovanie\suiiiii\suiiiii\bin\Debug\suiiiii.exe.config
+D:\progromirovanie\suiiiii\suiiiii\bin\Debug\suiiiii.exe
+D:\progromirovanie\suiiiii\suiiiii\bin\Debug\suiiiii.pdb
+D:\progromirovanie\suiiiii\suiiiii\obj\Debug\suiiiii.csproj.AssemblyReference.cache
+D:\progromirovanie\suiiiii\suiiiii\obj\Debug\suiiiii.Form1.resources
+D:\progromirovanie\suiiiii\suiiiii\obj\Debug\suiiiii.Properties.Resources.resources
+D:\progromirovanie\suiiiii\suiiiii\obj\Debug\suiiiii.csproj.GenerateResource.cache
+D:\progromirovanie\suiiiii\suiiiii\obj\Debug\suiiiii.csproj.CoreCompileInputs.cache
+D:\progromirovanie\suiiiii\suiiiii\obj\Debug\suiiiii.exe
+D:\progromirovanie\suiiiii\suiiiii\obj\Debug\suiiiii.pdb
